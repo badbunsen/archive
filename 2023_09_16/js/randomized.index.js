@@ -3,10 +3,10 @@
 //based on the neo-neighborhoods banner.js file. thanks! >:)
 function random_imglink(){
 var myimages=new Array(4)
-myimages[1]="/images/randomimage/index/unfunny.png";
-myimages[2]="/images/randomimage/index/contemplate.png";
-myimages[3]="/images/randomimage/index/drawbttr.png";
-myimages[4]="/images/randomimage/index/linksto.png";
+myimages[1]="images/randomimage/index/unfunny.png";
+myimages[2]="images/randomimage/index/contemplate.png";
+myimages[3]="images/randomimage/index/drawbttr.png";
+myimages[4]="images/randomimage/index/linksto.png";
 
 var alttag=new Array(4)
 alttag[1]="i'm so damn unfunny.";
